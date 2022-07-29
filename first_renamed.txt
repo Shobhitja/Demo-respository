@@ -1,0 +1,8 @@
+
+this is my version one of git bash
+
+I want this in commit 2
+changed by harry
+
+shobhit 
+hello
